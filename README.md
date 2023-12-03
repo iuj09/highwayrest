@@ -183,8 +183,8 @@
         </td>
     </tr>
     <tr>
-        <th style="width:300px">고속도로 상세</th>
-        <th style="width:300px">고속도로 메뉴</th>
+        <th style="width:300px">휴게소 상세</th>
+        <th style="width:300px">휴게소 메뉴</th>
     </tr>
     <tr>
         <td align="center">
